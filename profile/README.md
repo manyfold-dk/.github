@@ -1,4 +1,4 @@
-<img src="manyfold-logo.svg" alt="manyfold" width="220">
+<img src="manyfold-logo-white.png" alt="manyfold" >
 
 Manyfold is the platform engineering practice of [Thomas Berg von Linde](https://github.com/tbvl) in Copenhagen: consulting on Kubernetes platforms, and a small production platform run on European infrastructure for companies that want their systems looked after.
 
