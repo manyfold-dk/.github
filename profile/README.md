@@ -17,9 +17,9 @@ Manyfold is the platform engineering practice of [Thomas Berg von Linde](https:/
 
 Applications and data are hosted in the EU. Everything is defined in code and delivered through Git, significant decisions are recorded as architecture decision records, and AI agents handle first-line operations around the clock.
 
-## Why the repositories are private
+## What is public, and what is not
 
-They hold the running configuration of a production platform and its tenants. The live status, the architecture and selected decision records are public at [manyfold.dk](https://manyfold.dk).
+The repositories that hold the running configuration of the production platform and its tenants are private. Tooling that is useful outside this estate is published: estate-baseline — drift checks and handoffs for a set of repositories run to one standard, by people and by coding agents (Apache-2.0). The live status, the architecture and selected decision records are at [manyfold.dk](https://manyfold.dk).
 
 ## Contact
 
