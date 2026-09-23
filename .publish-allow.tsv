@@ -1,0 +1,5 @@
+# Shape values this repository is allowed to carry. Shape rows only; the gate refuses a name row.
+# A PNG is scanned as text: these bytes of the avatar image happen to read as an IPv6 address.
+IPv6 address	b::	profile/manyfold-avatar-white.png
+# ...and this file names that value to allow it.
+IPv6 address	b::	.publish-allow.tsv
