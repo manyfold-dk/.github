@@ -36,7 +36,7 @@ Applications and data are hosted in the EU. Everything is defined in code and de
 
 ## What is public, and what is not
 
-The repositories that hold the running configuration of the production platform and its tenants are private. Tooling that is useful outside this estate is published: [estate-baseline](https://github.com/manyfold-dk/estate-baseline) — drift checks and handoffs for a set of repositories run to one standard, by people and by coding agents (Apache-2.0). The live status, the architecture and selected decision records are at [manyfold.dk](https://manyfold.dk).
+The repositories that hold the running configuration of the production platform and its tenants are private. What is useful outside this estate is published, under Apache-2.0: [manyfold-platform](https://github.com/manyfold-dk/manyfold-platform) — the platform itself as a reference installation: the components and their configuration, the OpenTofu root that bootstraps a cluster, the platform's own applications, the alert rules and dashboards, and the decisions behind them, everything that is not specific to one installation; and [estate-baseline](https://github.com/manyfold-dk/estate-baseline) — drift checks and handoffs for a set of repositories run to one standard, by people and by coding agents. The live status, the architecture and selected decision records are at [manyfold.dk](https://manyfold.dk).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="diagrams/estate-dark.svg">

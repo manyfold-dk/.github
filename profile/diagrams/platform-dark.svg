@@ -28,7 +28,7 @@
 <text x="280" y="150" font-family="MF Mono, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8" text-anchor="start" letter-spacing="0.06em">PLATFORM SERVICES</text>
 <rect x="280" y="162" width="400" height="36" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
 <text x="296" y="185" font-family="MF Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="600" fill="#F1F5F9" text-anchor="start">Delivery</text>
-<text x="430" y="185" font-family="MF Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400" fill="#CBD5E1" text-anchor="start">Argo CD · Tekton · GitHub Actions</text>
+<text x="430" y="185" font-family="MF Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400" fill="#CBD5E1" text-anchor="start">Argo CD · GitHub Actions</text>
 <rect x="280" y="206" width="400" height="36" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
 <text x="296" y="229" font-family="MF Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="600" fill="#F1F5F9" text-anchor="start">Observability</text>
 <text x="430" y="229" font-family="MF Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400" fill="#CBD5E1" text-anchor="start">Prometheus · Loki · Tempo · Grafana</text>
